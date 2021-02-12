@@ -1,1 +1,1 @@
-
+Starting and shutting down computers and mobile devices is an important function of an operating systems (OS). They allow to quickly narrow the troubleshooting process by identifying any major hardware issues. The kernel process looks at any hardware connections to verify if they are working correctly. If not, the OS will display an error message, beep, or prevent further starting of the computer or mobile device.
